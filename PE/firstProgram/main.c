@@ -21,12 +21,23 @@ int main(){
     valor = 50;
 
     printf("\n\nDigite um valor inteiro: ");
-    scanf("%d", &valorNovo);
-    printf("\n\nPrimeiro valor: %d\nSegundo valor: %d", valor, valorNovo);
+    scanf("%d\n", &valorNovo);
+    printf("\n\nPrimeiro valor: %d\nSegundo valor: %d\n", valor, valorNovo);
 
-        //system("pause") só funciona no windows, segue outra alternativa
+    //%d - Numeros inteiros | %f - Numeros reais | %c - Caracteres
+
+    //Leitura com getchar
+    char letra;
+    printf("\n\nDigite uma letra: ");
+    letra = getchar();
+    printf("\nCaracter lido: %c\n", letra);
+
+
+    /*
+    system("pause") só funciona no windows, segue outra alternativa
     printf("\n\nPressione qualquer tecla para finalizar: ");
     getchar();
+    */
 
     return 0;
 }
