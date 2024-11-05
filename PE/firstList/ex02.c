@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Exercício 01
+//Exercício 02
 
 int main(){
     int a, b, c;
@@ -10,9 +10,9 @@ int main(){
     printf("Digite o primeiro numero: ");
     scanf("%d", &b);
     printf("Trocando as variaveis de lugar...\n\n");
-    c = b;
-    b = a;
-    a = c;
+    a = a + b;
+    b = a - b;
+    a = a - b;
     printf("O primeiro numero: %d e o segundo: %d", a, b);
 
     return 0;
