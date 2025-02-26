@@ -10,7 +10,7 @@ int main(){
     printf("Digite o valor total: ");
     scanf("%f", &total);
 
-    printf("Quantas pessoas para dividir a conta e gorjeta (opcional): ");
+    printf("Quantas pessoas para dividir a conta e gorjeta em porcentagem (opcional): ");
     scanf("%d %f", &pessoas, &gorjeta);
 
     gorjeta = (gorjeta/100);
