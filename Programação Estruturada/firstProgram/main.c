@@ -32,7 +32,7 @@ int main(){
     letra = getchar();
     printf("\nCaracter lido: %c\n", letra);
 
-
+inuz
     /*
     system("pause") só funciona no windows, segue outra alternativa
     printf("\n\nPressione qualquer tecla para finalizar: ");
