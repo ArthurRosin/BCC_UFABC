@@ -39,5 +39,7 @@ int main(){
     getchar();
     */
 
+    //Testando veriosnamento de códigos com Linux
+
     return 0;
 }
