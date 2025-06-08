@@ -1,0 +1,29 @@
+2025.06.08 01:45:13 INFO  Started: Metals version 1.6.0 in folders '/home/rosin/BCC_UFABC/Programação Funcional/helloWorld' for client Visual Studio Code 1.100.3.[0m
+2025.06.08 01:45:13 INFO  time: initialize in 0.12s[0m
+2025.06.08 01:45:16 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:45:24 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:45:24 WARN  no build target for: /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala[0m
+2025.06.08 01:45:30 INFO  time: code lens generation in 5.93s[0m
+2025.06.08 01:45:30 INFO  time: code lens generation in 6.19s[0m
+2025.06.08 01:45:30 INFO  time: code lens generation in 1.24s[0m
+2025.06.08 01:45:30 INFO  time: code lens generation in 6.2s[0m
+2025.06.08 01:45:30 INFO  time: code lens generation in 6.22s[0m
+jun. 08, 2025 1:45:31 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTrace
+2025.06.08 01:45:32 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:45:37 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:46:05 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:46:05 WARN  no build target for: /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala[0m
+2025.06.08 01:46:05 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:46:06 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:46:07 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:46:09 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:46:11 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:46:13 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:46:13 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:46:21 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:46:21 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:47:03 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:47:14 INFO  Shutting down server[0m
+2025.06.08 01:47:14 INFO  shutting down Metals[0m
+2025.06.08 01:47:14 INFO  Exiting server[0m

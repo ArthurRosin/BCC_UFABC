@@ -1,0 +1,192 @@
+2025.06.08 01:32:45 INFO  Started: Metals version 1.6.0 in folders '/home/rosin/BCC_UFABC/Programação Funcional' for client Visual Studio Code 1.100.3.[0m
+2025.06.08 01:32:45 INFO  time: initialize in 0.32s[0m
+2025.06.08 01:33:04 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:33:04 INFO  Attempting to connect to the build server...[0m
+2025.06.08 01:33:05 INFO  Found a Bloop server running[0m
+2025.06.08 01:33:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/rosin/BCC_UFABC/Programação Funcional/.metals/bsp.trace.json or /home/rosin/.cache/metals/bsp.trace.json[0m
+2025.06.08 01:33:07 INFO  time: Connected to build server in 2.51s[0m
+2025.06.08 01:33:07 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.08 01:33:18 INFO  Scala targets not supported by server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: The session has not been initialized.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2025.06.08 01:33:19 INFO  Created report: Optional.empty[0m
+2025.06.08 01:33:19 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/home/rosin/BCC_UFABC/Programação Funcional/.metals/.reports/bloop/2025-06-08/r_Empty build targets...._01-33-18-871.md")[0m
+2025.06.08 01:33:19 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/home/rosin/BCC_UFABC/Programação Funcional/.metals/.reports/bloop/2025-06-08/r_Empty build targets...._01-33-18-871.md")[0m
+2025.06.08 01:33:19 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/home/rosin/BCC_UFABC/Programação Funcional/.metals/.reports/bloop/2025-06-08/r_Empty build targets...._01-33-18-871.md")[0m
+2025.06.08 01:33:19 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/home/rosin/BCC_UFABC/Programação Funcional/.metals/.reports/bloop/2025-06-08/r_Empty build targets...._01-33-18-871.md")[0m
+2025.06.08 01:33:19 INFO  time: Imported build in 12s[0m
+2025.06.08 01:33:19 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:33:20 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:33:20 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:33:23 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:33:28 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:33:28 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2025.06.08 01:33:28 INFO  time: indexed workspace in 8.96s[0m
+2025.06.08 01:33:28 WARN  no build target for: /home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala[0m
+2025.06.08 01:33:28 WARN  no build target for: /home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala[0m
+2025.06.08 01:33:28 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:33:29 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:33:29 INFO  Report absolute-path: ### java.lang.IllegalArgumentException: Bad escape
+
+Uri: file:///home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala
+
+
+#### Error stacktrace:
+
+```
+java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:125)
+	java.base/java.nio.file.Path.of(Path.java:204)
+	java.base/java.nio.file.Paths.get(Paths.java:98)
+	scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePathSafe(MetalsEnrichments.scala:768)
+	scala.meta.internal.metals.WorkspaceLspService.getServiceForOpt(WorkspaceLspService.scala:351)
+	scala.meta.internal.metals.WorkspaceLspService.getServiceFor(WorkspaceLspService.scala:360)
+	scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:915)
+	scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	java.base/java.lang.Thread.run(Thread.java:1583)
+```
+[0m
+jun. 08, 2025 1:33:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+GRAVE: Internal error: Bad escape
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:125)
+	at java.base/java.nio.file.Path.of(Path.java:204)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$validate$1(DebugDiscovery.scala:82)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:82)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runCommandDiscovery(DebugDiscovery.scala:61)
+	at scala.meta.internal.metals.MetalsLspService.discoverMainClasses(MetalsLspService.scala:1489)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:916)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2025.06.08 01:33:30 WARN  no build target for: /home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala[0m
+2025.06.08 01:33:29 INFO  Report absolute-path: ### java.lang.IllegalArgumentException: Bad escape
+
+Uri: file:///home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala
+
+
+#### Error stacktrace:
+
+```
+java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:125)
+	java.base/java.nio.file.Path.of(Path.java:204)
+	java.base/java.nio.file.Paths.get(Paths.java:98)
+	scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePathSafe(MetalsEnrichments.scala:768)
+	scala.meta.internal.metals.WorkspaceLspService.getServiceForOpt(WorkspaceLspService.scala:351)
+	scala.meta.internal.metals.WorkspaceLspService.getServiceFor(WorkspaceLspService.scala:360)
+	scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1111)
+	scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	java.base/java.lang.Thread.run(Thread.java:1583)
+```
+[0m
+jun. 08, 2025 1:33:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+GRAVE: Internal error: Bad escape
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:125)
+	at java.base/java.nio.file.Path.of(Path.java:204)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$validate$1(DebugDiscovery.scala:82)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:82)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1456)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1112)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2025.06.08 01:33:39 INFO  time: code lens generation in 9.97s[0m
+2025.06.08 01:33:39 INFO  time: code lens generation in 10s[0m
+2025.06.08 01:33:39 INFO  time: code lens generation in 10s[0m
+2025.06.08 01:33:39 INFO  time: code lens generation in 10s[0m
+2025.06.08 01:33:39 INFO  time: code lens generation in 10s[0m
+2025.06.08 01:33:40 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:33:55 INFO  no build target found for /home/rosin/BCC_UFABC/Programação Funcional/hello-world/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.06.08 01:35:12 INFO  Shutting down server[0m
+2025.06.08 01:35:12 INFO  shutting down Metals[0m
+2025.06.08 01:35:12 INFO  Shut down connection with build server.[0m
+2025.06.08 01:35:12 INFO  Exiting server[0m
