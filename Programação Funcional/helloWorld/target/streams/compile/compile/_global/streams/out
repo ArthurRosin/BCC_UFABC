@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E120] Naming Error: /home/rosin/BCC_UFABC/Programação Funcional/helloWorld/src/main/scala/Main.scala:5:4 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m[33mdef[0m [36mhello[0m() = print([31m"Hello, scala 2!"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m    ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0mDouble definition:[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0mdef hello(): Unit in [33mpackage object[0m [35mMain$package[0m at line 1 and[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0mdef hello(): Unit in [33mpackage object[0m [35mMain$package[0m at line 5[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0mhave the same type after erasure.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0mConsider adding a @targetName annotation to one of the conflicting definitions[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0mfor disambiguation.[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
